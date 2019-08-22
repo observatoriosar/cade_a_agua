@@ -1,0 +1,306 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-vector-icons] /home/administrador/Documentos/appOsar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.60.4] /home/administrador/.gradle/caches/transforms-2/files-2.1/6c4cf1e2c760f77ab01023915068062a/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/administrador/.gradle/caches/transforms-2/files-2.1/7f79afc7792da4d43353fc3fe6a89184/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/administrador/Documentos/appOsar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/administrador/.gradle/caches/transforms-2/files-2.1/699a68008d87e390d512c5afc00f849f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bfd66ebf12b87a18a290ab4fb3c4e9c3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/25d20fb1238613f4065ecc827f48e197/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/198426448ecfe4e938b2ae2db3309677/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/59112bac8078a9f389a4698888082e17/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/db59371cde7fc8b95671760b1a26000a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/206bbdcc4e152a2fe6b8a0420e8b1a81/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/30e69dfbb8cc8849425d5ac088ed5dc4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/39a92783ac31b14b991bb67f5ec86aae/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/4f842786b59ac9cc0299ea0aa588ab8a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/2856a250fad3fc6c93becad8b2266b1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9c1b082db27e784e90a5c4cf37d7a16f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/374cc33851f66632f5a92dcf72ef0bd0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bc1b4b7cbcbae84c3e8fa0bdec6ab140/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/f52ab50aacc7a52b28bdd916d24a23b4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/a23599c9b93864185acc95de9495dd94/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/20eae84bd17f27f7c68ef6fba50d4fe8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5d85e3fb1ad89b5ba359bf667d3aaade/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9391581141de9be14a579834bd6873f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cbecc0bd466c45f4a4e247b01cb35f91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a40ffced66e23c0eb696ec1e40afb75f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a8b743818ffe3b631eef329061096e67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/85675411c04e99ceebd09215f7682838/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/4742903b476fe15edfa399b31100e127/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/74de8b1b4866b38efa2ec49d4a7a2e92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/50e94d73af16d4ccaf9544a5e9e75729/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/6363172559c8da33041affc92a77c262/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5c6913bcd36b70b663ccd336909898c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/8be160ab764d3ba31942adcc9dea63bd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/682ba80fef2a7734ee4e1606a283f79b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/37e3714208270e8ecf734f837067af42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cae7e00e9688691b42c1dd5e1b1daed6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/b73223d6aef2b08288af4f2b7bfb8ea2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9be5df4d083496408b67013975505693/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/117ec31edef6ccf64a7b9a458ba4d8fa/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/fbd97c785d6e85c2467bee61178b873a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5ca4e39ffe67c46fe0f4e5bb2cdcd568/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:2:3-24
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:6:5-28:19
+MERGED from [com.facebook.react:react-native:0.60.4] /home/administrador/.gradle/caches/transforms-2/files-2.1/6c4cf1e2c760f77ab01023915068062a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.4] /home/administrador/.gradle/caches/transforms-2/files-2.1/6c4cf1e2c760f77ab01023915068062a/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/39a92783ac31b14b991bb67f5ec86aae/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/39a92783ac31b14b991bb67f5ec86aae/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/4f842786b59ac9cc0299ea0aa588ab8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/4f842786b59ac9cc0299ea0aa588ab8a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/50e94d73af16d4ccaf9544a5e9e75729/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/50e94d73af16d4ccaf9544a5e9e75729/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.apposar.MainActivity
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:23:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:25:9-27:70
+	android:value
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:27:13-68
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml:26:13-58
+uses-sdk
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/administrador/Documentos/appOsar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/administrador/Documentos/appOsar/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/administrador/.gradle/caches/transforms-2/files-2.1/6c4cf1e2c760f77ab01023915068062a/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.4] /home/administrador/.gradle/caches/transforms-2/files-2.1/6c4cf1e2c760f77ab01023915068062a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/administrador/.gradle/caches/transforms-2/files-2.1/7f79afc7792da4d43353fc3fe6a89184/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/administrador/.gradle/caches/transforms-2/files-2.1/7f79afc7792da4d43353fc3fe6a89184/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/administrador/Documentos/appOsar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/administrador/Documentos/appOsar/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/administrador/.gradle/caches/transforms-2/files-2.1/699a68008d87e390d512c5afc00f849f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/administrador/.gradle/caches/transforms-2/files-2.1/699a68008d87e390d512c5afc00f849f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bfd66ebf12b87a18a290ab4fb3c4e9c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bfd66ebf12b87a18a290ab4fb3c4e9c3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/25d20fb1238613f4065ecc827f48e197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/25d20fb1238613f4065ecc827f48e197/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/198426448ecfe4e938b2ae2db3309677/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/198426448ecfe4e938b2ae2db3309677/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/59112bac8078a9f389a4698888082e17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/59112bac8078a9f389a4698888082e17/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/db59371cde7fc8b95671760b1a26000a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/db59371cde7fc8b95671760b1a26000a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/206bbdcc4e152a2fe6b8a0420e8b1a81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/206bbdcc4e152a2fe6b8a0420e8b1a81/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/30e69dfbb8cc8849425d5ac088ed5dc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/30e69dfbb8cc8849425d5ac088ed5dc4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/39a92783ac31b14b991bb67f5ec86aae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/39a92783ac31b14b991bb67f5ec86aae/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/4f842786b59ac9cc0299ea0aa588ab8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/4f842786b59ac9cc0299ea0aa588ab8a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/2856a250fad3fc6c93becad8b2266b1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/2856a250fad3fc6c93becad8b2266b1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9c1b082db27e784e90a5c4cf37d7a16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9c1b082db27e784e90a5c4cf37d7a16f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/374cc33851f66632f5a92dcf72ef0bd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/374cc33851f66632f5a92dcf72ef0bd0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bc1b4b7cbcbae84c3e8fa0bdec6ab140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/bc1b4b7cbcbae84c3e8fa0bdec6ab140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/f52ab50aacc7a52b28bdd916d24a23b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/f52ab50aacc7a52b28bdd916d24a23b4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/a23599c9b93864185acc95de9495dd94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/a23599c9b93864185acc95de9495dd94/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/20eae84bd17f27f7c68ef6fba50d4fe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/20eae84bd17f27f7c68ef6fba50d4fe8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5d85e3fb1ad89b5ba359bf667d3aaade/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5d85e3fb1ad89b5ba359bf667d3aaade/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9391581141de9be14a579834bd6873f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9391581141de9be14a579834bd6873f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cbecc0bd466c45f4a4e247b01cb35f91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cbecc0bd466c45f4a4e247b01cb35f91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a40ffced66e23c0eb696ec1e40afb75f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a40ffced66e23c0eb696ec1e40afb75f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a8b743818ffe3b631eef329061096e67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/a8b743818ffe3b631eef329061096e67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/85675411c04e99ceebd09215f7682838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/85675411c04e99ceebd09215f7682838/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/4742903b476fe15edfa399b31100e127/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/4742903b476fe15edfa399b31100e127/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/74de8b1b4866b38efa2ec49d4a7a2e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/74de8b1b4866b38efa2ec49d4a7a2e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/administrador/.gradle/caches/transforms-2/files-2.1/afb9149080cdc190afcbdbe5b7904326/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/50e94d73af16d4ccaf9544a5e9e75729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/50e94d73af16d4ccaf9544a5e9e75729/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/6363172559c8da33041affc92a77c262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/6363172559c8da33041affc92a77c262/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5c6913bcd36b70b663ccd336909898c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5c6913bcd36b70b663ccd336909898c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/8be160ab764d3ba31942adcc9dea63bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/8be160ab764d3ba31942adcc9dea63bd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/682ba80fef2a7734ee4e1606a283f79b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/682ba80fef2a7734ee4e1606a283f79b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/37e3714208270e8ecf734f837067af42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/37e3714208270e8ecf734f837067af42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cae7e00e9688691b42c1dd5e1b1daed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/cae7e00e9688691b42c1dd5e1b1daed6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/b73223d6aef2b08288af4f2b7bfb8ea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/b73223d6aef2b08288af4f2b7bfb8ea2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9be5df4d083496408b67013975505693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/9be5df4d083496408b67013975505693/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/117ec31edef6ccf64a7b9a458ba4d8fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/117ec31edef6ccf64a7b9a458ba4d8fa/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/fbd97c785d6e85c2467bee61178b873a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/fbd97c785d6e85c2467bee61178b873a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5ca4e39ffe67c46fe0f4e5bb2cdcd568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/5ca4e39ffe67c46fe0f4e5bb2cdcd568/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/administrador/Documentos/appOsar/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /home/administrador/Documentos/appOsar/node_modules/react-native-maps/lib/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/32759244eff8d0671dab3a9000ab8175/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.1.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/854770d6d01703832002930c8e182995/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /home/administrador/.gradle/caches/transforms-2/files-2.1/de33c57357635af7b74128eafb3893d4/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /home/administrador/.gradle/caches/transforms-2/files-2.1/ed96afb57a13540e4a32d308d7f700f6/AndroidManifest.xml:9:13-58
